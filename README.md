@@ -1,4 +1,4 @@
-# C Piscine @ 1337
+# C Piscine @1337
  This repository contains my solutions for [1337's](https://1337.ma/en/) C bootcamp.
 
 PS : Don't copy. Learn. :)
