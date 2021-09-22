@@ -14,7 +14,7 @@ PS : Don't copy. Learn. :)
 		shell commands to seamlessly navigate through the terminal.
 
 	# Git
-	All projects are submitted via a remote git repository, so the Necessity of using git commands.
+	 All projects are submitted via a remote git repository, so the Necessity of using git commands.
 ### Soft-skills
 ```
 # Self-learning and proactiveness
